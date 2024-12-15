@@ -1,0 +1,33 @@
+[submodule "Button-Components"]
+	path = Button-Components
+	url = https://github.com/mazher-dev/UIHive_Buttons-Components.git
+[submodule "Call-to-Action-Section"]
+	path = Call-to-Action-Section
+	url = https://github.com/mazher-dev/UIHive_Call-to-action-Section.git
+[submodule "Error-Page-Section"]
+	path = Error-Page-Section
+	url = https://github.com/mazher-dev/UIHive_Error-Page-Section.git
+[submodule "Cards-Section"]
+	path = Cards-Section
+	url = https://github.com/mazher-dev/UIHive_Cards-Section.git
+[submodule "Form-Section"]
+	path = Form-Section
+	url = https://github.com/mazher-dev/UIHive_Form-Section.git
+[submodule "FAQ-Section"]
+	path = FAQ-Section
+	url = https://github.com/mazher-dev/UIHive_FAQ-Sectio.git
+[submodule "Contact-Form-Section"]
+	path = Contact-Form-Section
+	url = https://github.com/mazher-dev/UIHive_Contact-Form-Section.git
+[submodule "Testimonial-Section"]
+	path = Testimonial-Section
+	url = https://github.com/mazher-dev/UIHive_Testimonial-Section.git
+[submodule "Pricing-Section"]
+	path = Pricing-Section
+	url = https://github.com/mazher-dev/UIHive_Pricing-Section.git
+[submodule "Features-Section"]
+	path = Features-Section
+	url = https://github.com/mazher-dev/UIHive_Features-Section.git
+[submodule "Hero-Section"]
+	path = Hero-Section
+	url = https://github.com/mazher-dev/UIHive_Hero-Section.git
