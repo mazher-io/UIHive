@@ -6,7 +6,6 @@ Welcome to **UIHive** - a collection of reusable UI components designed to help 
 
 ## Table of Contents
 - [About UIHive](#about-uihive)
-- [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Contributing](#contributing)
