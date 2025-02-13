@@ -2,7 +2,7 @@
 
 [![Cover.png](https://i.postimg.cc/pV514vKM/Cover.png)](https://postimg.cc/NLY42WNd)
 
-Welcome to **UIHive** - a collection of reusable UI components designed to help you build sleek and responsive web applications effortlessly. Whether you're a developer looking to streamline your project or a designer seeking to enhance your product, **UIHive** has you covered with its variety of components and utilities. 🔥
+Welcome to **UIHive** - a collection of reusable UI components designed to help you build sleek and responsive web applications effortlessly. Whether you're a developer looking to streamline your project or a designer seeking to enhance your product, **UIHive** has you covered with its variety of components and utilities.🔥
 
 ## Table of Contents
 - [About UIHive](#about-uihive)
