@@ -66,5 +66,6 @@ Stay tuned for upcoming updates:
 - More documentation for better usability 📘
 - Integration with newer web technologies 🌐
 
+
 ## Acknowledgements
 Some components in this library are not original creations but are adapted from open-source projects. Proper credits have been given for their original creators. By using **UIHive**, you agree to the open-source licenses associated with each component📜. 
